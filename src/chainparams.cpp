@@ -141,7 +141,7 @@ public:
 
         checkpointData = {
             {
-                //{BlockNumber,"hash"};
+                {0,uint256S("5120777cc9c743c50f1455a30f5dd086a1dbfead3454c16f805f75aacfdae759")},
             }
         };
 
