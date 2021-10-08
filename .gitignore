@@ -81,7 +81,6 @@ src/qt/pyeongtaekcoin-qt.includes
 
 # Compilation and Qt preprocessor part
 *.qm
-Makefile
 pyeongtaekcoin-qt
 pyeongtaekcoin-Qt.app
 background.tiff*
